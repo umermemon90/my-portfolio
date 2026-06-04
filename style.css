@@ -379,7 +379,7 @@
   }
 
   .hero_container .hero_content {
-    font-size: 2rem;
+    font-size: 1.8rem;
     text-shadow: 0 0 20px rgba(0, 212, 255, 0.7);
     overflow: hidden;
     padding: 0 2rem;
@@ -972,7 +972,7 @@
 
   /* this is for email  */
   .contact-container .email {
-    font-size: 3rem;
+    font-size: 2.8rem;
     color: white;
 
     background-clip: text;

@@ -60,7 +60,7 @@ const homePage = () => {
     let codeCrafttext = document.querySelector('.hero_content');
     let codeCraft = codeCrafttext.textContent
     let spiltText = codeCraft.split("");
-    let addText = "";
+    let addText = " ";
     spiltText.forEach((char) => {
       addText += `<span>${char}</span>`;
     });
